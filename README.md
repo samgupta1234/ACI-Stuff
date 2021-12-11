@@ -1,3 +1,3 @@
 # ACI-Stuff
 
-![image](https://user-images.githubusercontent.com/29043720/145686936-27a14987-0779-4ddd-8bd3-5bddaa006a46.png)
+![image](https://user-images.githubusercontent.com/29043720/145686953-d4f77aca-fec3-4118-81e5-4da1bbab29ad.png)
